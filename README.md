@@ -1,1 +1,2 @@
-# personal-website
+Tribute Website: 
+This website inspired by Coldplay's Viva La Vida or Death and All His Friends album. It has the list of all the songs in the left box. The right box is supposed to look like a song is playing. In this case, it's Viva La Vida, which is my favourite song from the album. I made the boxes red so that they match the flag in the album cover, as well as made the album cover as the background. The font for the album cover was hard to find, so I figured out how import a google font, Permanent Marker. I used W3 Schools to figure out the features like outlining the text or translating objects and shifting positions.  
